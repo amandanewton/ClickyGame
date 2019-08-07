@@ -6,7 +6,7 @@ For this assignment, I created a memory game with React. This assignment require
 
 ## Live App:
 
-[Check out the live app here](https://amandanewton.github.io/ClickyGame/index.html)
+[Check out the live app here](https://amandanewton.github.io/ClickyGame/)
 
 ### Instructions
 
